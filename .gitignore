@@ -1,0 +1,8 @@
+# local backups produced by scripts/install-workbuddy-plugin.ps1
+*.bak-*
+
+# scratch
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
